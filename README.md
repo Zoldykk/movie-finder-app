@@ -1,5 +1,5 @@
 <h1>Demo</h1>
-https://my-react-movie-finder.herokuapp.com/ </br>
+https://movie-finderr.herokuapp.com/ </br>
 
 # Getting Started with Create React App
 
